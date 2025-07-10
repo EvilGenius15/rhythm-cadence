@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Launch new website",
+    "assignedTo": "Alice",
+    "status": "On Track",
+    "percentComplete": 50
+  },
+  {
+    "title": "Expand sales team",
+    "assignedTo": "Bob",
+    "status": "At Risk",
+    "percentComplete": 30
+  },
+  {
+    "title": "Increase revenue by 20%",
+    "assignedTo": "Charlie",
+    "status": "Behind",
+    "percentComplete": 10
+  }
+]
